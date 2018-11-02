@@ -1,0 +1,19 @@
+{
+  "name": "musicaline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvir42/MusicaLine.git"
+  },
+  "author": "Moshe Wainner & Dvir Rassovsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvir42/MusicaLine/issues"
+  },
+  "homepage": "https://github.com/dvir42/MusicaLine#readme"
+}
